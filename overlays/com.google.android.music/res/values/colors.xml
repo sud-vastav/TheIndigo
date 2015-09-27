@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="play_music_primary">@*common:color/m_primary_accent</color>
+    <color name="play_music_secondary">@*common:color/m_secondary_accent</color>
+</resources>

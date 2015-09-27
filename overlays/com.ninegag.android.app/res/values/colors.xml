@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*common:color/m_primary_accent_dark</color>
+    <color name="accent_material_light">@*common:color/m_primary_accent</color>
+    <color name="primary">@*common:color/m_primary_accent</color>
+	<color name="actionbar_bg">@*common:color/m_primary_accent</color>
+    <color name="actionbar_bg_color">@*common:color/m_primary_accent</color>
+    <color name="primary_dark_material_dark">@*common:color/m_primary_accent_dark</color>
+    <color name="primary_dark_material_light">@*common:color/m_primary_accent_dark</color>
+    <color name="primary_material_dark">@*common:color/m_primary_accent</color>
+    <color name="primary_material_light">@*common:color/m_primary_accent</color>
+</resources>

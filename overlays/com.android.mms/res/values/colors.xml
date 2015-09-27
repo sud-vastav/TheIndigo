@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ripple_material_dark">@*common:color/m_primary_accent</color> 
+	<color name="ripple_material">@*common:color/m_secondary_accent</color> 
+	<color name="mms_theme_color_accent">@*common:color/m_primary_accent</color>
+	<color name="mms_theme_color_dark">@*common:color/m_primary_accent_dark</color>
+	<color name="mms_theme_color">@*common:color/m_primary_accent</color>
+	<color name="actionbar_background_color">@*common:color/m_primary_accent</color>
+	<color name="actionbar_background_color_dark">@*common:color/m_primary_accent_dark</color>
+</resources>

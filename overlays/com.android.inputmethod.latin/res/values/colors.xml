@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="key_background_lxx_dark">@*common:color/m_secondary_accent</color>
+    <color name="key_background_pressed_lxx_dark">@*common:color/m_secondary_accent</color>
+    <color name="key_background_lxx_light">#ffe1f5fe</color>
+    <color name="key_background_pressed_lxx_light">#ffe1f5fe</color>
+	<color name="gesture_trail_color_lxx_dark">@*common:color/m_primary_accent</color>
+	<color name="gesture_trail_color_lxx_light">@*common:color/m_primary_accent</color>
+</resources>

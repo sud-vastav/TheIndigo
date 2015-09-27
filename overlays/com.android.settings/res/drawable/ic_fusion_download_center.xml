@@ -1,0 +1,3 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/ic_fusion_download_center1"
+    android:tint="@*common:color/m_secondary_accent" />

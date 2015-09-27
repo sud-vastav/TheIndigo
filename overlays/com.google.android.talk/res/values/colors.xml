@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="hangout_fmf_in_call_promo_eligible">@*common:color/m_primary_accent</color>
+	<color name="bg_item_normal_invite">@*common:color/m_primary_accent</color>
+    <color name="avatar_background_color">@*common:color/m_primary_accent</color>
+	<color name="quantum_googgreen700">@*common:color/m_primary_accent_dark</color>
+    <color name="title_background">@*common:color/m_primary_accent</color>
+    <color name="conversation_hangout_color">@*common:color/m_primary_accent</color>
+    <color name="action_bar_background_color">@*common:color/m_primary_accent</color>
+	<color name="quantum_googgreen500">@*common:color/m_primary_accent</color>
+	<color name="primary_dark_material_dark">@*common:color/m_primary_accent_dark</color>
+    <color name="primary_dark_material_light">@*common:color/m_primary_accent_dark</color>
+</resources>

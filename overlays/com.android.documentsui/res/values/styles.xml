@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogWhenReallyLarge" parent="@android:style/Theme.DeviceDefault.Light" />
+    <style name="DocumentsTheme" parent="@style/DialogWhenReallyLarge">
+        <item name="android:colorPrimary">@*common:color/m_primary_accent</item>
+        <item name="android:colorPrimaryDark">@*common:color/m_primary_accent_dark</item>
+        <item name="android:colorAccent">@*common:color/m_primary_accent</item>
+    </style>
+</resources>

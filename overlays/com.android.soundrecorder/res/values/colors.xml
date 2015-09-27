@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_primary">@*common:color/m_primary_accent</color>
+    <color name="material_dark">@*common:color/m_primary_accent_dark</color>
+    <color name="bottom_bar_background">#ff303030</color>
+</resources>

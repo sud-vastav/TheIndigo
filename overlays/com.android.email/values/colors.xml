@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mail_orange">@*common:color/m_primary_accent</color>
+    <color name="statusbar_orange">@*common:color/m_primary_accent_dark</color>
+</resources>

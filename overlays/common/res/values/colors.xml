@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m_primary_accent">#ff3f51b5</color>
+	<color name="m_secondary_accent">#ff212121</color>
+    <color name="m_bg">#ffffffff</color>
+	<color name="black">#ffffffff</color>
+	<color name="m_primary_accent_dark">#ff303f9f</color>
+</resources>
+

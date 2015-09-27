@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Platform.AppCompat.Light" parent="@android:style/Theme.Light" />
+	<style name="Base.V7.Theme.AppCompat.Light" parent="@style/Platform.AppCompat.Light" />
+	<style name="Base.Theme.AppCompat.Light" parent="@style/Base.V7.Theme.AppCompat.Light" />
+	<style name="Theme.AppCompat.Light" parent="@style/Base.Theme.AppCompat.Light" />
+	<style name="GagLightTheme" parent="@style/Theme.AppCompat.Light" />
+    <style name="AppTheme" parent="@style/GagLightTheme">
+	    <item name="android:colorPrimaryDark">@*common:color/m_primary_accent_dark</item>
+    </style>
+	</resources>

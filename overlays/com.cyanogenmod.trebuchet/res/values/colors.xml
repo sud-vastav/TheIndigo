@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settings_bg_color">#ff0f0f0f</color>
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="settings_header_text">@*common:color/m_secondary_accent</color>
+    <color name="widget_text_panel">#ff0f0f0f</color>
+    <color name="info_target_hover_tint">#daf8206e</color>
+    <color name="wallpaper_picker_translucent_gray">#660f0f0f</color>
+</resources>

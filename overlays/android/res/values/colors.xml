@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Teal_700">@*common:color/m_primary_accent</color>
+    <color name="Teal_800">@*common:color/m_primary_accent</color>
+	<color name="colorPrimaryDark">@*common:color/m_primary_accent</color>
+    <color name="material_deep_teal_200">@*common:color/m_primary_accent</color>
+    <color name="material_deep_teal_500">@*common:color/m_primary_accent</color>
+	<color name="ripple_material_dark">@*common:color/m_primary_accent</color>
+    <color name="ripple_material_light">@*common:color/m_primary_accent</color>
+</resources>

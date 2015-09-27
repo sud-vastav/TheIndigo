@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*common:color/m_primary_accent</color>
+	<color name="page_header_background">@*common:color/m_primary_accent</color>
+	<color name="primary">@*common:color/m_primary_accent</color>
+    <color name="primary_dark">@*common:color/m_primary_accent_dark</color>
+    <color name="primary_light">@*common:color/m_primary_accent</color>
+    <color name="tab_ripple_color">@*common:color/m_primary_accent</color>
+    <color name="tab_accent_color">@*common:color/m_primary_accent</color>
+    <color name="tab_selected_underline_color">@*common:color/m_primary_accent</color>
+	<color name="header_action_bar_color">@*common:color/m_primary_accent</color>
+	<color name="background_toolbar">@*common:color/m_primary_accent</color>
+    <color name="background_main_toolbar">@*common:color/m_primary_accent</color>
+</resources>

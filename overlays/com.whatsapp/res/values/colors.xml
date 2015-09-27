@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@*common:color/m_primary_accent</color>
+    <color name="accent_material_dark">@*common:color/m_primary_accent</color>
+    <color name="accent_material_light">@*common:color/m_primary_accent</color>
+    <color name="action_mode">@*common:color/m_primary_accent</color>
+    <color name="action_mode_dark">@*common:color/m_primary_accent</color>
+    <color name="primary">@*common:color/m_primary_accent</color>
+    <color name="primary_dark">@*common:color/m_primary_accent_dark</color>
+	<color name="secondary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_light">#ffffffff</color>
+    <color name="secondary_text_disabled_material_dark">#ffffffff</color>
+    <color name="secondary_text_disabled_material_light">#ffffffff</color>
+    <color name="group_admin">@*common:color/m_primary_accent</color>
+	<color name="divider_gray">#00000000</color>
+	<color name="tab_indicator">@*common:color/m_secondary_accent</color>
+	<color name="ripple_material_dark">#ff2196f3</color>
+    <color name="ripple_material_light">#ff2196f3</color>
+    
+</resources>

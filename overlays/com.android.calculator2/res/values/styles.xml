@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalculatorTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@*common:color/m_primary_accent</item>
+        <item name="android:statusBarColor">@*common:color/m_primary_accent</item>
+        <item name="android:navigationBarColor">@*common:color/m_secondary_accent</item>
+    </style> 
+</resources>

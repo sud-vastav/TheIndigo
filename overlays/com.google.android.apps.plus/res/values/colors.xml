@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="color" name="action_bar_background">@*common:color/m_primary_accent</item>
+	<color name="riviera_promo_header_square">@*common:color/m_primary_accent</color>
+	<color name="primary_dark_material_dark">@*common:color/m_primary_accent_dark</color>
+    <color name="primary_dark_material_light">@*common:color/m_primary_accent_dark</color>
+    <color name="quantum_googred500">@*common:color/m_primary_accent</color>
+    <color name="quantum_googred700">@*common:color/m_primary_accent_dark</color>
+</resources>

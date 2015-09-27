@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qs_tile_tint_color">@*common:color/m_primary_accent</color>
+    <color name="data_usage_stroke_color">@*common:color/m_primary_accent</color>
+    <color name="data_usage_fill_color">#ff009688</color>
+    <color name="data_usage_secondary_fill_color">#ff80cbc4</color>
+    <color name="data_usage_label_color">#ff37474f</color>
+    <color name="data_usage_secondary_label_color">#fff4511e</color>
+    <color name="lockscreen_shortcuts_tint_color">@*common:color/m_primary_accent</color>
+    <color name="ownerinfo_divider_color">@*common:color/m_primary_accent</color>
+    <color name="switchbar_text_color">#ffffffff</color>
+    <color name="secondary_accent">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="material_empty_color_light">@*common:color/m_secondary_accent</color>
+    <color name="divider_color">#ffffffff</color>
+    <color name="circle_avatar_frame_pressed_color">@*common:color/m_primary_accent</color>
+    <color name="lock_pattern_background">#ffffffff</color>
+    <color name="lock_pattern_view_regular_color">@*common:color/m_primary_accent</color>
+    <color name="lock_pattern_view_success_color">@*common:color/m_primary_accent</color>
+    <color name="lock_pattern_view_error_color">#fff4511e</color>
+    <color name="unlock_pattern_view_regular_color">@android:color/white</color>
+    <color name="unlock_pattern_view_success_color">@color/theme_accent</color>
+    <color name="unlock_pattern_view_error_color">#fff4511e</color>
+    <color name="running_processes_system_ram">@*common:color/m_primary_accent</color>
+    <color name="running_processes_apps_ram">#ff009587</color>
+    <color name="running_processes_free_ram">#ffced7db</color>
+    <color name="theme_accent">@*common:color/m_primary_accent</color>
+    <color name="switchbar_background_color">@*common:color/m_primary_accent</color>
+    <color name="switch_accent_color">@*common:color/m_secondary_accent</color>
+    <color name="wifi_divider">@*common:color/m_primary_accent</color>
+    <color name="ga_gesture_color">@android:color/holo_blue_light</color>
+    <color name="dashboard_category_background_color">@*common:color/m_bg</color>
+    <color name="dashboard_background_color">@*common:color/m_bg</color>
+</resources>

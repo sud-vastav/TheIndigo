@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_palette_blue_primary">@*common:color/m_primary_accent</color>
+	<color name="material_palette_blue_primary_dark">#ff303f9f</color>
+    <color name="material_palette_blue_1">@*common:color/m_primary_accent</color>
+    <color name="material_palette_blue_2">#ff303f9f</color>
+    <color name="material_palette_blue_3">@*common:color/m_primary_accent</color>
+    <color name="material_palette_blue_4">@*common:color/m_primary_accent</color>
+	<color name="material_palette_blue_accent_dark">@*common:color/m_primary_accent</color>
+    <color name="material_palette_blue_accent">@*common:color/m_primary_accent</color>
+    <color name="actionbar_palette_blue_primary">@*common:color/m_primary_accent</color>
+</resources>

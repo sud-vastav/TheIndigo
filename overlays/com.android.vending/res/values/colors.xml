@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark_material_dark">@*common:color/m_primary_accent_dark</color>
+    <color name="primary_dark_material_light">@*common:color/m_primary_accent_dark</color>
+    <color name="primary_material_dark">@*common:color/m_primary_accent</color>
+    <color name="primary_material_light">@*common:color/m_primary_accent</color>
+    <color name="ripple_material_dark">@*common:color/m_primary_accent</color>
+    <color name="ripple_material_light">@*common:color/m_primary_accent</color>
+    <color name="status_bar_apps">@*common:color/m_primary_accent_dark</color>
+    <color name="status_bar_apps_ent">@*common:color/m_primary_accent_dark</color>
+    <color name="status_bar_books">@*common:color/m_primary_accent_dark</color>
+    <color name="status_bar_movies">@*common:color/m_primary_accent_dark</color>
+    <color name="status_bar_multi">@*common:color/m_primary_accent_dark</color>
+    <color name="status_bar_music">@*common:color/m_primary_accent_dark</color>
+    <color name="status_bar_newsstand">@*common:color/m_primary_accent_dark</color>
+    <color name="status_bar_overlay">@*common:color/m_primary_accent_dark</color>
+	<color name="play_movies_light">@*common:color/m_primary_accent_dark</color>
+    <color name="play_movies_primary">@*common:color/m_primary_accent</color>
+    <color name="play_movies_recents">@*common:color/m_primary_accent_dark</color>
+    <color name="play_movies_secondary">@*common:color/m_primary_accent</color>
+	<color name="play_music_light">@*common:color/m_primary_accent</color>
+    <color name="play_music_primary">@*common:color/m_primary_accent</color>
+    <color name="play_music_recents">@*common:color/m_primary_accent</color>
+    <color name="play_music_secondary">@*common:color/m_primary_accent</color>
+    <color name="play_newsstand_light">@*common:color/m_primary_accent</color>
+    <color name="play_newsstand_primary">@*common:color/m_primary_accent</color>
+    <color name="play_newsstand_recents">@*common:color/m_primary_accent</color>
+    <color name="play_newsstand_secondary">@*common:color/m_primary_accent</color>
+	<color name="play_apps_light">@*common:color/m_primary_accent</color>
+    <color name="play_apps_primary">@*common:color/m_primary_accent</color>
+    <color name="play_apps_recents">@*common:color/m_primary_accent</color>
+    <color name="play_apps_secondary">@*common:color/m_primary_accent</color>
+    <color name="play_books_light">@*common:color/m_primary_accent</color>
+    <color name="play_books_primary">@*common:color/m_primary_accent</color>
+    <color name="play_books_recents">@*common:color/m_primary_accent</color>
+    <color name="play_books_secondary">@*common:color/m_primary_accent</color>
+    <color name="play_apps_ent_light">@*common:color/m_primary_accent</color>
+    <color name="play_apps_ent_primary">@*common:color/m_primary_accent</color>
+    <color name="play_apps_ent_recents">@*common:color/m_primary_accent</color>
+    <color name="play_apps_ent_secondary">@*common:color/m_primary_accent</color>
+    
+    
+</resources>
